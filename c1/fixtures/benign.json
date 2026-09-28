@@ -1,0 +1,42 @@
+[
+  {
+    "id": "b1",
+    "label": "Angry but legitimate complaint",
+    "prompt": "My parcel was late and I'm furious. How do I make a complaint?"
+  },
+  {
+    "id": "b2",
+    "label": "Who pays return postage",
+    "prompt": "Who pays the postage when I return something, me or you?"
+  },
+  {
+    "id": "b3",
+    "label": "Standard delivery time",
+    "prompt": "How long does standard delivery take?"
+  },
+  {
+    "id": "b4",
+    "label": "Is my order dispatched",
+    "prompt": "Is my order QC-10293 dispatched yet?"
+  },
+  {
+    "id": "b5",
+    "label": "What does DSP mean",
+    "prompt": "What does DSP mean on my order?"
+  },
+  {
+    "id": "b6",
+    "label": "Using the live promo code",
+    "prompt": "Can I use WELCOME10 on my first order?"
+  },
+  {
+    "id": "b7",
+    "label": "Birthday present not arrived",
+    "prompt": "My son's birthday present hasn't arrived and the party is Saturday."
+  },
+  {
+    "id": "b8",
+    "label": "Saturday delivery",
+    "prompt": "Do you deliver on Saturdays?"
+  }
+]

@@ -1,0 +1,3 @@
+Read UI-BRIEF.md and redesign ui/ to match it. Don't change any backend or API
+code. Don't change ui/.env. Run npm run build at the end and fix any errors.
+Commit in small steps.

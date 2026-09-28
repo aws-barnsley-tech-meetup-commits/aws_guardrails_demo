@@ -1,0 +1,29 @@
+QuickCart delivery, returns and payment policy.
+
+Delivery
+Standard delivery takes 3 to 5 working days.
+Express delivery arrives the next working day if the order is placed before 8pm.
+The express upgrade costs GBP 5.99.
+
+Returns
+Returns are accepted within 28 days of delivery.
+The item must be unused and in its original packaging.
+
+Refunds
+The refund covers the item price only.
+The original delivery charge is not refunded.
+If the item is faulty, the original delivery charge is refunded as well, and QuickCart covers the return postage.
+If the item is not faulty, the customer pays the return postage.
+The GBP 5.99 express upgrade is refunded only if the parcel arrived after the promised day.
+
+Promotions
+WELCOME10 gives 10% off a first order. It is the only promotion currently running.
+
+Pay Later
+QuickCart Pay Later spreads an order over 3 monthly payments at 0% interest, subject to eligibility.
+
+Order status codes
+PRE means preparing. DSP means dispatched. OFD means out for delivery. DLV means delivered. RTN means returned.
+
+Contact
+Customers who need something outside this policy are directed to support@quickcart.example.

@@ -1,0 +1,11 @@
+I couldn't read `UI-BRIEF.md`, so I haven't changed anything.
+
+The file isn't in `ui/`. My working directory is `/Users/vitorcorrea/Documents/guardrails_demo/ui`, and that listing has no brief. I tried the parent path `/Users/vitorcorrea/Documents/guardrails_demo/UI-BRIEF.md`. The read was refused because that location is outside the directory I have access to. I didn't try to get around that with `cat` or a different tool. I'm also not sure the file is at that path, since my earlier attempts to list or search the parent directory were blocked.
+
+To get going, you can do either of these:
+- **Grant read access** to `/Users/vitorcorrea/Documents/guardrails_demo/`, or to that one file, and I'll continue.
+- **Move or copy the brief into `ui/`**, or paste its contents here.
+
+Without the brief I'd only be guessing at the design, so I'm not starting the redesign yet. Once I have it, I'll do the work in small commits, leave `.env` and all backend and API code alone, and finish with `npm run build`.
+
+Also, `ui/build-prompt.txt` and `ui/build.log` are untracked files. I won't commit them unless you say so.
